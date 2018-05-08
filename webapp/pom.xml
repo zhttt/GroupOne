@@ -232,7 +232,7 @@
     </dependency>
     <dependency>
       <groupId>com.jk</groupId>
-      <artifactId>webapp</artifactId>
+      <artifactId>parent</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
